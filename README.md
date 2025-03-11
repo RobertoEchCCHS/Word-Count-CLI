@@ -14,9 +14,6 @@ A cross-platform command-line utility for analyzing text files. Count words, cha
 - Cross-platform compatibility (Windows, Mac, and Linux)
 - Fast performance even with large files (tested with works by Shakespeare!)
 
-## Demo 🎬
-
-<!-- Add a demo GIF once you've created your GitHub repository -->
 
 ## Installation 🚀
 
@@ -24,8 +21,8 @@ A cross-platform command-line utility for analyzing text files. Count words, cha
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/word-counter-cli.git
-   cd word-counter-cli
+   git clone https://github.com/RobertoEchCCHS/Word-Count-CLI.git
+   cd Word-Count-CLI
    ```
 
 2. Install dependencies:
@@ -38,17 +35,6 @@ A cross-platform command-line utility for analyzing text files. Count words, cha
    chmod +x wordcounter.py
    ```
 
-### ### Using pip (Coming Soon)
-
-```bash
-pip install word-counter-cli
-```
-
-### Using pipx (Recommended for CLI Tools)
-
-```bash
-pipx install word-counter-cli
-```
 
 ## Usage 💻
 
@@ -126,8 +112,8 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR-USERNAME/word-counter-cli.git
-cd word-counter-cli
+git clone https://github.com/RobertoEchCCHS/Word-Count-CLI.git
+cd Word-Count-CLI
 
 # Set up a virtual environment
 python -m venv venv
@@ -157,25 +143,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with Python's rich ecosystem
 - Inspired by the need for quick text analysis
 
-## Screenshots 📸
-
-### Basic Analysis
-<!-- Add screenshot once you've created your GitHub repository -->
-
-### Multiple File Analysis
-<!-- Add screenshot once you've created your GitHub repository -->
 
 ---
 
-If you find this tool useful, please consider giving it a star ⭐ on GitHub!
+If you find this tool useful, please consider giving it a star ⭐ on [GitHub](https://github.com/RobertoEchCCHS/Word-Count-CLI)!
 
-## Example Output
-
-```
-File                           Words    Characters      Lines   Paragraphs
-----------------------------------------------------------------------
-myfile.txt                       120          743         24            5
-```
 
 ## Contributing
 
@@ -184,3 +156,4 @@ Contributions are welcome! Feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
