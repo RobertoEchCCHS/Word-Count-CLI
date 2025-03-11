@@ -27,7 +27,12 @@ A cross-platform command-line utility for analyzing text files. Count words, cha
 
 2. Install dependencies:
    ```bash
+   # Make sure you're in the Word-Count-CLI directory
+   cd /path/to/Word-Count-CLI
    pip install -r requirements.txt
+   
+   # If you're still getting an error, try specifying the full path:
+   pip install -r /path/to/Word-Count-CLI/requirements.txt
    ```
 
 3. Make the script executable (Linux/Mac):
