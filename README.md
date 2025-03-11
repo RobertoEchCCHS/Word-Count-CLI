@@ -184,9 +184,3 @@ Contributions are welcome! Feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Get Feedback
-
-Share this project and get feedback from:
-- Reddit: [r/commandline](https://www.reddit.com/r/commandline/)
-- Hacker News: [Show HN](https://news.ycombinator.com/submit)
