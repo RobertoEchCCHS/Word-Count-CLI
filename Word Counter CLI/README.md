@@ -1,4 +1,4 @@
-# Word Counter CLI 📊
+# Word-Counter-CLI 📊
 
 A cross-platform command-line utility for analyzing text files. Count words, characters, lines, and paragraphs in `.txt` and `.md` files with beautiful colorized output and informative visuals.
 
